@@ -44,7 +44,7 @@ const samrudh = {
 ⏳ Learning never stops...
 
 <!-- skill loading bar -->
-![Loading...](https://progress-bar.dev/30/?title=Exploring+more&width=300&color=7F52FF)
+![Exploring more...](https://progress-bar.xyz/30?title=Exploring%20more)
 
 
 </div>
